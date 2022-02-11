@@ -32,7 +32,7 @@
 
 ## 1.5 其他
 
-这里我们省去了封装为Windows软件的过程。要是想实现这一效果，可参考这一链接：[(28条消息) Qt5程序打包发布（Windows版）（一）_my1324的博客-CSDN博客_qt打包发布windows](https://blog.csdn.net/my1324/article/details/103270782)
+这里我们省去了封装为Windows软件的过程。要是想实现这一效果，可参考这一链接：[(28条消息) Qt5程序打包发布（Windows版）（一）_my1324的博客-CSDN博客_qt打包发布windows](https://blog.csdn.net/my1324/article/details/103270782)，这里向原作者表达真挚的感谢！！！
 
 ## 其他说明
 
