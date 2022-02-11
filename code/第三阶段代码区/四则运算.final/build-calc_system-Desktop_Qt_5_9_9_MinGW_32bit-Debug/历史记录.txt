@@ -1,0 +1,322 @@
+
+Time of starting:22-02-08 16:46::06 周二
+
+Time of starting:22-02-08 16:46::55 周二
+NO0: 
+19/81 is correct
+Your answer is: 0
+The correct answer:  0
+NO1: 
+27+41 is wrong
+Your answer is: 121
+The correct answer: 68
+
+Time of starting:22-02-08 16:47::38 周二
+NO0: 
+78*(81-65) is wrong
+Your answer is: 0
+The correct answer: 1248
+NO1: 
+26/15-28*37 is wrong
+Your answer is: 0
+The correct answer: -1035
+NO2: 
+36/(36+76) is correct
+Your answer is: 0
+The correct answer:  0
+
+Time of starting:22-02-08 16:50::08 周二
+
+Time of starting:22-02-08 17:01::20 周二
+NO0: 
+54/15 is wrong
+Your answer is: 0
+The correct answer: 3
+NO1: 
+(11|16+(1|12-0|5))+8|18 is wrong
+Your answer is: 0
+The correct answer: 175|144
+NO2: 
+(0|14-0|4)/(6|14+5|6)+4|5 is wrong
+Your answer is: 0
+The correct answer: 4|5
+NO3: 
+(4|7-(5|11-0|6))+(15|18/11|12)*5|8 is wrong
+Your answer is: 0
+The correct answer: 211|308
+NO4: 
+((66/11+16)-65)-59 is wrong
+Your answer is: 0
+The correct answer: -102
+NO5: 
+41/66 is correct
+Your answer is: 0
+The correct answer:  0
+NO6: 
+((0|2*3|8)*(13|15/15|16))/((8|11-2|3)/3|5)+(3|5)**2 is wrong
+Your answer is: 0
+The correct answer: 9|25
+NO7: 
+40*(81+67) is wrong
+Your answer is: 0
+The correct answer: 5920
+NO8: 
+15|17*(4|16/1|3-4|6) is wrong
+Your answer is: 0
+The correct answer: 5|68
+NO9: 
+(5|12*(2|4*(3|19+0|16)))*(1|15-12|16) is wrong
+Your answer is: 0
+The correct answer: 41|-1824
+NO10: 
+2|7*2|3 is wrong
+Your answer is: 0
+The correct answer: 4|21
+NO11: 
+7|19+(5|13+11|12) is wrong
+Your answer is: 0
+The correct answer: 4949|2964
+
+Time of starting:22-02-08 17:03::52 周二
+NO0: 
+64-5 is wrong
+Your answer is: 6
+The correct answer: 59
+NO1: 
+1|9/(0|3-10|12) is wrong
+Your answer is: 5
+The correct answer: -2|15
+NO2: 
+54-98 is wrong
+Your answer is: 5
+The correct answer: -44
+NO3: 
+3|6-12|14 is wrong
+Your answer is: 5
+The correct answer: 5|-14
+NO4: 
+(1|3-5|17)*(11|14*3|7) is wrong
+Your answer is: 4
+The correct answer: 11|833
+NO5: 
+71*(83/(16+12)) is wrong
+Your answer is: 7
+The correct answer: 142
+NO6: 
+26/(23*32) is wrong
+Your answer is: 3
+The correct answer: 0
+NO7: 
+5|6/(9|11/7|12) is wrong
+Your answer is: 7
+The correct answer: 385|648
+NO8: 
+1|17-(12|19+4|9) is wrong
+Your answer is: 7
+The correct answer: 2957|-2907
+NO9: 
+3|14+0|9 is wrong
+Your answer is: 3
+The correct answer: 3|14
+NO10: 
+4+((2/37)*60+29*(2/16)) is wrong
+Your answer is: 5
+The correct answer: 8531316
+NO11: 
+20*(86-54) is wrong
+Your answer is: 7
+The correct answer: 640
+NO12: 
+45/82-43 is wrong
+Your answer is: 3
+The correct answer: -43
+NO13: 
+0|18+0|4 is wrong
+Your answer is: 0
+The correct answer: 0
+NO14: 
+3*((2|3-4|12)/(12|16-0|5)) is wrong
+Your answer is: 0
+The correct answer: 32|243
+NO15: 
+3|4+(4|5+0|4) is wrong
+Your answer is: 0
+The correct answer: 31|20
+NO16: 
+3-70 is wrong
+Your answer is: 0
+The correct answer: 1261
+NO17: 
+11/49+21 is wrong
+Your answer is: 0
+The correct answer: 21
+NO18: 
+69-42 is wrong
+Your answer is: 0
+The correct answer: 27
+NO19: 
+(1|6/3|11+4/2|4)+(0|4*5|6-0|2) is wrong
+Your answer is: 0
+The correct answer: 11993|18432
+NO20: 
+(4*13|16)*(1|7+4) is wrong
+Your answer is: 0
+The correct answer: 408824|13356208327
+NO21: 
+82+19 is wrong
+Your answer is: 0
+The correct answer: 101
+NO22: 
+(92*79)*(11/8)-35 is wrong
+Your answer is: 0
+The correct answer: 7233
+NO23: 
+2|7*(6|13+(3+8|18)) is wrong
+Your answer is: 0
+The correct answer: 18836|66339
+
+Time of starting:22-02-08 17:09::19 周二
+
+Time of starting:22-02-08 17:40::49 周二
+
+Time of starting:22-02-08 17:41::30 周二
+
+Time of starting:22-02-08 17:42::47 周二
+
+Time of starting:22-02-08 17:45::09 周二
+
+Time of starting:22-02-08 17:47::14 周二
+
+Time of starting:22-02-08 17:49::22 周二
+NO0: 
+4|6-0|3 is wrong
+Your answer is: 0
+The correct answer: 2|3
+NO1: 
+0|2+1|2 is correct
+Your answer is: 1|2
+The correct answer:   1|2
+NO2: 
+93**3/6 is wrong
+Your answer is: 0
+The correct answer: 134059
+NO3: 
+8*81-94 is wrong
+Your answer is: 0
+The correct answer: 554
+NO4: 
+(24/12)/70 is correct
+Your answer is: 0
+The correct answer:  0
+
+Time of starting:22-02-09 19:41::05 周三
+NO0: 
+(3|8-3|4)/2|7-14|16 is wrong
+Your answer is: 0
+The correct answer: -35|16
+NO1: 
+94+(4-89**3) is wrong
+Your answer is: 4
+The correct answer: -704871
+
+Time of starting:22-02-09 19:46::05 周三
+
+Time of starting:22-02-09 19:46::40 周三
+NO0: 
+(2|4-13|15)*(2|5-9|12) is wrong
+Your answer is: 0
+The correct answer: 77|600
+NO1: 
+(11|16+(1|8*0|6)/8|11)+16|18 is wrong
+Your answer is: 0
+The correct answer: 227|144
+NO3: 
+12|19-(6|10)^2 is wrong
+Your answer is: 0215
+The correct answer: 129|475
+NO4: 
+(4|10/1|13)/((5|11*15|19)/(7|11*(11|13)^2)) is wrong
+Your answer is: 123
+The correct answer: 32186|4875
+
+Time of starting:22-02-09 19:48::08 周三
+
+Time of starting:22-02-09 20:17::29 周三
+NO0: 
+51+80 is correct
+Your answer is: 131
+The correct answer:  131
+NO1: 
+73/52 is correct
+Your answer is: 1
+The correct answer:  1
+NO3: 
+0|5/(3|4)^3 is wrong
+Your answer is: 0
+The correct answer: 0
+NO4: 
+55-32 is correct
+Your answer is: 23
+The correct answer:  23
+
+Time of starting:22-02-09 20:25::52 周三
+NO0: 
+(3|5+10|17)*1|12 is wrong
+Your answer is: 0
+The correct answer: 101|1020
+NO1: 
+0|2*1|10-1|7 is wrong
+Your answer is: -1|7
+The correct answer: 1|-7
+NO2: 
+2|18*3|12 is correct
+Your answer is: 1|36
+The correct answer:   1|36
+NO3: 
+(1-69)*(87*28) is wrong
+Your answer is: 0
+The correct answer: -165648
+NO4: 
+11|17*(7|8)^2-17|18 is wrong
+Your answer is: 0
+The correct answer: 4397|-9792
+
+Time of starting:22-02-09 20:41::03 周三
+NO0: 
+9|13*4|19 is wrong
+Your answer is: 0
+The correct answer: 36|247
+NO2: 
+((4|5)^2/7|9+0|2*3|5)+(0|14*1|6+3|4) is wrong
+Your answer is: 0
+The correct answer: 1101|700
+NO3: 
+1|3*4|11 is correct
+Your answer is: 4|33
+The correct answer:   4|33
+NO4: 
+(68^3/41)/(12*96) is wrong
+Your answer is: 0
+The correct answer: 6
+
+Time of starting:22-02-09 20:42::46 周三
+NO0: 
+3|10/9|14+2|8 is wrong
+Your answer is: 0
+The correct answer: 43|60
+NO1: 
+62+(16-53^2) is wrong
+Your answer is: 0
+The correct answer: -2731
+NO2: 
+(34+(93-65))/81-69 is wrong
+Your answer is: 0
+The correct answer: -69
+NO3: 
+3|11-4|10 is wrong
+Your answer is: 0
+The correct answer: 7|-55
+NO4: 
+(2|11+7|17)-((1|13)^2-11|13) is wrong
+Your answer is: 0
+The correct answer: 45313|31603
